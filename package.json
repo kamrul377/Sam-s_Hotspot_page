@@ -1,0 +1,11 @@
+{
+  "name": "sams_dine",
+  "version": "1.0.0",
+  "description": "this project is for sam's dine hotspot users",
+  "main": "md5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
